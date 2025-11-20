@@ -58,16 +58,16 @@ Matplotlib plots
 Seaborn visualizations
 
 Data distribution analysis
-
-📂 Folder Structure
-Data-Science-Workbook/
-│
-├── Iris flower classification/
-├── Linear Regression/
-├── Classification/
-├── Regression/
-├── Data Preprocessing/
-└── Visualizations/
+````
+            📂 Folder Structure
+            Data-Science-Workbook/
+            │
+            ├── Iris flower classification/
+            ├── Linear Regression/
+            ├── Logistic Regression/
+            ├── /
+            ├── /
+            └── /
 
 🛠️ Tech Stack
 
